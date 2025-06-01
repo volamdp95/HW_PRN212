@@ -1,0 +1,14 @@
+D:\C#\HW_W2\obj\Debug\net9.0\HW_W2.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\HW_W2\obj\Debug\net9.0\HW_W2.AssemblyInfoInputs.cache
+D:\C#\HW_W2\obj\Debug\net9.0\HW_W2.AssemblyInfo.cs
+D:\C#\HW_W2\obj\Debug\net9.0\HW_W2.csproj.CoreCompileInputs.cache
+D:\C#\HW_W2\bin\Debug\net9.0\HW_W2.exe
+D:\C#\HW_W2\bin\Debug\net9.0\HW_W2.deps.json
+D:\C#\HW_W2\bin\Debug\net9.0\HW_W2.runtimeconfig.json
+D:\C#\HW_W2\bin\Debug\net9.0\HW_W2.dll
+D:\C#\HW_W2\bin\Debug\net9.0\HW_W2.pdb
+D:\C#\HW_W2\obj\Debug\net9.0\HW_W2.dll
+D:\C#\HW_W2\obj\Debug\net9.0\refint\HW_W2.dll
+D:\C#\HW_W2\obj\Debug\net9.0\HW_W2.pdb
+D:\C#\HW_W2\obj\Debug\net9.0\HW_W2.genruntimeconfig.cache
+D:\C#\HW_W2\obj\Debug\net9.0\ref\HW_W2.dll
